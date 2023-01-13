@@ -1,4 +1,4 @@
-Hi 👋 My name is Nkechi Julia Onyimadu
+Hi 👋 My name is Nkechi
 ======================================
 
 Web Developer
