@@ -1,4 +1,4 @@
-Hi 👋 My name is Nkechi
+Hi 👋 My name is Nkechi Julia
 ======================================
 
 Web Developer
