@@ -1,7 +1,7 @@
-Hi 👋 My name is Nkechi Julia
+Hi 👋 My name is Julia
 ======================================
 
-Web Developer
+Frontend Developer
 -------------
 
 Web developer with a passion for creating great user experiences, building responsive and functional web pages. I work with JavaScript, VueJs, React, Nodejs, Express and firebase to create amazing websites and web applications.
