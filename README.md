@@ -4,7 +4,7 @@ Hi 👋 My name is Julia
 Frontend Developer
 -------------
 
-Web developer with a passion for creating great user experiences, building responsive and functional web pages. I work with JavaScript, VueJs, React, Nodejs, Express and firebase to create amazing websites and web applications.
+Web developer with a passion for creating great user experiences, building responsive and functional web pages. I work with JavaScript, VueJs, React, Nuxt.js, Nodejs, Express and firebase to create amazing websites and web applications.
 
 *   🌍  I'm based in Lagos
 *   🖥️  See my portfolio at [Nk-portfolio](http://nkjulia-portfolio.netlify.app/)
