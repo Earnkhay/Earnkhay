@@ -7,8 +7,8 @@ Frontend Developer
 Web developer with a passion for creating great user experiences, building responsive and functional web pages. I work with JavaScript, VueJs, React, Nuxt.js, Nodejs, Express and firebase to create amazing websites and web applications.
 
 *   🌍  I'm based in Lagos
-*   🖥️  See my portfolio at [Nk-portfolio](http://nkjulia-portfolio.netlify.app/)
-*   🧠  I'm learning Nodejs and react
+*   🖥️  View my portfolio at [Nk-portfolio](http://nkjulia-portfolio.netlify.app/)
+*   🧠  I'm learning Nodejs and Nuxt.js
 *   🤝  I'm open to collaborating on interesting projects
 ### Skills 
 <p align="left">
@@ -43,7 +43,7 @@ Web developer with a passion for creating great user experiences, building respo
 
 <a href="http://www.github.com/earnkhay"><img src="https://github-readme-stats.vercel.app/api?username=earnkhay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="earnkhay's GitHub stats" /></a>
 
-<a href="http://www.github.com/earnkhay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=earnkhay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <a href="http://www.github.com/earnkhay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=earnkhay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <a href="https://github.com/earnkhay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnkhay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
