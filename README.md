@@ -7,7 +7,7 @@ Frontend Developer
 Web developer with a passion for creating great user experiences, building responsive and functional web pages. I work with JavaScript, VueJs, React, Nuxt.js, Nodejs, Express and firebase to create amazing websites and web applications.
 
 *   🌍  I'm based in Lagos
-*   🖥️  View my portfolio at [Nk-portfolio](http://nkjulia-portfolio.netlify.app/)
+*   🖥️  View my portfolio at [Nk-portfolio](http://nkechi-onyimadu.vercel.app/)
 *   🧠  I'm learning Nodejs and Nuxt.js
 *   🤝  I'm open to collaborating on interesting projects
 ### Skills 
