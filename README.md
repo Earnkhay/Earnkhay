@@ -1,4 +1,4 @@
-Hi 👋 My name is Julia
+Hi 👋 My name is Nkechi
 ======================================
 
 Frontend Developer
